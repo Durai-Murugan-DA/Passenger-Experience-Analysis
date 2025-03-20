@@ -32,7 +32,7 @@ This Tableau dashboard visualizes customer reviews for British Airways based on 
 
 The dataset used in this dashboard consists of customer reviews for British Airways, including ratings for various service aspects.
 
- **[Download Passanger Analysis Data](https://github.com/Durai-Murugan-DA/HR-Analytics-Presence-Insights/blob/7fc205dd5cf578f98fc7ad50cc4d16acba3970b4/Added%20HR%20Analytics%20Data%20Source)**
+ **[Download Passanger Analysis Data](https://github.com/Durai-Murugan-DA/Passenger-Experience-Analysis/tree/1f41d2821f33591bf7245cc13d05f870d7c1f3d8/Passanger%20Analysis%20Data%20Set)**
 
 ## Tools and Technologies
 
@@ -58,6 +58,13 @@ Adding more filters, such as flight routes or ticket class, for a more detailed 
 
 Integrating external data sources for benchmarking against other airlines.
 
-## Author
+## 📂 Project File  
 
-This project was developed using Tableau Public as part of an analysis of British Airways customer reviews.
+ [Project File - Covid Data Exploration](https://github.com/Durai-Murugan-DA/HR-Analytics-Presence-Insights/blob/f7261abc073f56140d794ca3cb62beb8e6d75224/HR_Analytics_Presence_insights.pbix)  
+
+
+## About the Author  
+
+👤 **Durai Murugan**  
+📧 [duraijeeva2017@gmail.com](mailto:duraijeeva2017@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/durai-murugan-data-analyst)  
