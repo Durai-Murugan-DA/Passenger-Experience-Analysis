@@ -60,7 +60,7 @@ Integrating external data sources for benchmarking against other airlines.
 
 ## 📂 Project File  
 
- [Project File - Covid Data Exploration](https://github.com/Durai-Murugan-DA/HR-Analytics-Presence-Insights/blob/f7261abc073f56140d794ca3cb62beb8e6d75224/HR_Analytics_Presence_insights.pbix)  
+ [Project File - Covid Data Exploration](https://github.com/Durai-Murugan-DA/Passenger-Experience-Analysis/blob/818241ee85efbb0ead72c362b3d713c6830dbf2e/Passanger%20Experiance%20Analysis%20.twbx)  
 
 
 ## About the Author  
