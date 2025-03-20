@@ -5,8 +5,7 @@
 This Tableau dashboard visualizes customer reviews for British Airways based on various metrics such as overall rating, cabin staff service, entertainment, food and beverages, ground service, seat comfort, and value for money. The dashboard allows users to analyze trends over time, compare ratings by aircraft type, and explore regional variations in customer feedback.
 
 ## Passanger Analysis Dashboard Preview
-![Passanger Analysis Preview](
-https://github.com/Durai-Murugan-DA/HR-Analytics-Presence-Insights/blob/6286c428b1e1ba45f89da5d6c4b335d03fe09d0e/Presence_Insights.png)
+![Passanger Analysis Preview](https://github.com/Durai-Murugan-DA/Passenger-Experience-Analysis/blob/7ee590babafa72c10f2c56dc2ab29122c166c51f/Dashboard.png)
 ## Features
 
 ### 1. Interactive Metric Selection
@@ -32,6 +31,8 @@ https://github.com/Durai-Murugan-DA/HR-Analytics-Presence-Insights/blob/6286c428
 ## Data Source
 
 The dataset used in this dashboard consists of customer reviews for British Airways, including ratings for various service aspects.
+
+ **[Download Passanger Analysis Data](https://github.com/Durai-Murugan-DA/HR-Analytics-Presence-Insights/blob/7fc205dd5cf578f98fc7ad50cc4d16acba3970b4/Added%20HR%20Analytics%20Data%20Source)**
 
 ## Tools and Technologies
 
